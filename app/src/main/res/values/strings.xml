@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">List Custom Adapter</string>
+    <string name="age">Age: %1$d</string>
+</resources>
